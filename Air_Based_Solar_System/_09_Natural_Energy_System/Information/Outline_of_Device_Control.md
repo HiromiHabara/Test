@@ -45,28 +45,28 @@
             <td style="border:1px solid black; text-align:center;">稼働</td>
             <td style="border:1px solid black; text-align:center;">-</td>
             <td style="border:1px solid black; text-align:center;">暖房</td>
-            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働の場合）</td>
+            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働と同義）</td>
             <td style="border:1px solid black; text-align:center;">所定の温度以上</td>
         </tr>
         <tr>
             <td style="border:1px solid black; text-align:center;">停止</td>
             <td style="border:1px solid black; text-align:center;">-</td>
             <td style="border:1px solid black; text-align:center;">暖房</td>
-            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働の場合）</td>
+            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働と同義）</td>
             <td style="border:1px solid black; text-align:center;">所定を超えない</td>
         </tr>
         <tr>
             <td style="border:1px solid black; text-align:center;">稼働</td>
             <td style="border:1px solid black; text-align:center;">-</td>
             <td style="border:1px solid black; text-align:center;">暖房以外</td>
-            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働の場合）</td>
+            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働と同義）</td>
             <td style="border:1px solid black; text-align:center;">any</td>
         </tr>
         <tr>
             <td style="border:1px solid black; text-align:center;">停止</td>
             <td style="border:1px solid black; text-align:center;">-</td>
             <td style="border:1px solid black; text-align:center;">any</td>
-            <td style="border:1px solid black; text-align:center;">所定の温度を超えない<br/>（※即ち、空気搬送ファンが<br/>停止の場合）</td>
+            <td style="border:1px solid black; text-align:center;">所定の温度を超えない<br/>（※即ち、空気搬送ファンが<br/>停止と同義）</td>
             <td style="border:1px solid black; text-align:center;">any</td>
         </tr>
         <tr>
@@ -74,14 +74,14 @@
             <td style="border:1px solid black; text-align:center;">開放</td>
             <td style="border:1px solid black; text-align:center;">-</td>
             <td style="border:1px solid black; text-align:center;">暖房</td>
-            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働の場合）</td>
+            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働と同義）</td>
             <td style="border:1px solid black; text-align:center;">-</td>
         </tr>
         <tr>
         <td style="border:1px solid black; text-align:center;">閉鎖</td>
         <td style="border:1px solid black; text-align:center;">-</td>
         <td style="border:1px solid black; text-align:center;">暖房</td>
-        <td style="border:1px solid black; text-align:center;">所定の温度を超えない<br/>（※即ち、空気搬送ファンが<br/>停止の場合）</td>
+        <td style="border:1px solid black; text-align:center;">所定の温度を超えない<br/>（※即ち、空気搬送ファンが<br/>停止と同義）</td>
         <td style="border:1px solid black; text-align:center;">-</td>
         </tr>
         <tr>
@@ -103,14 +103,14 @@
             <td style="border:1px solid black; text-align:center;">閉鎖</td>
             <td style="border:1px solid black; text-align:center;">-</td>
             <td style="border:1px solid black; text-align:center;">暖房以外</td>
-            <td style="border:1px solid black; text-align:center;">所定の温度を超えない<br/>（※即ち、空気搬送ファンが<br/>停止の場合）</td>
+            <td style="border:1px solid black; text-align:center;">所定の温度を超えない<br/>（※即ち、空気搬送ファンが<br/>停止と同義）</td>
             <td style="border:1px solid black; text-align:center;">-</td>
         </tr>
         <tr>
             <td style="border:1px solid black; text-align:center;">開放</td>
             <td style="border:1px solid black; text-align:center;">-</td>
             <td style="border:1px solid black; text-align:center;">暖房以外</td>
-            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働の場合）</td>
+            <td style="border:1px solid black; text-align:center;">所定の温度以上<br/>（※即ち、空気搬送ファンが<br/>稼働と同義）</td>
             <td style="border:1px solid black; text-align:center;">-</td>
         </tr>
     </tbody>
